@@ -1,0 +1,136 @@
+
+
+
+.btn-toggle{
+    border: white !important;
+}
+
+.nav-btn{
+    color: black;
+    background-color: white;
+    position: relative;
+}
+
+.nav-link{
+    padding: 0px 12px;
+}
+
+.nav-btn{
+    padding: 0px 12px !important;
+}
+
+.title img{
+    width: 100%;
+
+}
+
+/* season-delicacies */
+.season-deli{
+    margin: 80px 32px 10px 32px;
+}
+
+.sweet-image{
+    width: 100%;
+    /* padding: 1rem 2rem 2rem 1rem; */
+}
+
+.season-btn-div{
+    text-align: center;
+    margin: 43px 0px 12px 0px;
+    border-radius: 0rem !important;
+}
+.season-btn{
+    border-radius: 0rem !important;
+}
+
+.season-deli h3{
+    margin: 0px 0px 38px 0px;
+}
+
+.indian-sweets{
+    margin: 80px 32px 10px 32px;
+}
+
+.indian-sweets h3{
+    margin: 0px 0px 38px 0px;
+}
+
+.sale{
+    text-decoration: line-through;
+}
+
+
+.slide-show{
+    background-color: rgb(255, 249, 249);
+    text-align: center;
+    margin: 85px 43px 60px 43px;
+    align-items: center;
+    height: 600px;
+}
+
+.slider-image{
+    width: 70% !important;
+    height: 600px;
+}
+
+/* .slide-button{
+    color: black !important;
+} */
+
+.video{
+    text-align: center;
+    margin: 4rem 0rem 3.5rem 0rem;
+    height: 500px;
+}
+.you-tube{
+    width: 90%;
+    height: 400px;
+}
+
+
+
+.about-us{
+    margin: 4rem 2.5rem 3.5rem 2.5rem;
+}
+.about-us h2{
+    margin-bottom: 2rem;
+}
+
+/* .col-lg-6 p{
+    justify-content: center;
+    padding-left: 45px;
+} */
+.about-image{
+    width: 80%;
+}
+
+
+#footer{
+    background-color: #ffc107;
+    padding: 10% 20%;
+    text-align: center;
+}
+#icon{
+    
+    padding: 12px 9px;
+}
+
+
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 1.5rem !important;
+    }
+}
+
+@media (max-width:992px){
+   .navbar-brand{
+       
+    display: block;
+    margin: auto !important;
+
+   }
+   .col-lg-6 p{
+    justify-content: center;
+    }
+}
